@@ -1,1 +1,1 @@
-# Covid_analysis
+#### Covid_analysis - This is a data science project to analyse daily covid reports and can be used by govt websites to keep track of the change in covid cases. The appropriate visual analysis by the plotting and pandas libraries has been used here to show how covid cases are spreading accross the globe.
